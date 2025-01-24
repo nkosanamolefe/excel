@@ -13,9 +13,9 @@ Looking into Key Performance Indicators (KPIs) such as market share and value gr
 2. **Moving Annual Total (MAT)**: The company's shampoo products generated over $98 million in turnover in the latest 12 months.
 3. **Market Share**: HealthMax holds a 22% market share in the South region, with Starbust having its largest market share in the same region.
 
-### **Year-over-Year Growth**
-### **Moving Annual Total (MAT)**
-### **Market Share**
+#### **Year-over-Year Growth**
+#### **Moving Annual Total (MAT)**
+#### **Market Share**
 HealthMax owns Shinez and Starbus, out of 25 brands on the market.
 Year-over-year growth per brand, in 2020 HealthMax grew by 4%! Shinez contributed to this success with its 7,7% YoY growth.
 
