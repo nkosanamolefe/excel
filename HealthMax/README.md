@@ -8,12 +8,13 @@ HealthMax, a leading Fast Moving Consumer Goods (FMCG) company in the shampoo ma
 ## Insights Deep Dive
 ### Fast Moving Consumer Goods
 Looking into Key Performance Indicators (KPIs) such as market share and value growth on various time dimensions such as year-to-date (YTD) and moving annual total (MAT).
-### **Key Highlights**
+#### **Key Highlights**
 1. **Year-over-year growth**: HealthMax achieved a 4% growth in 2020, driven by Shinez's 7.7% year-over-year growth.
 2. **Moving Annual Total (MAT)**: The company's shampoo products generated over $98 million in turnover in the latest 12 months.
 3. **Market Share**: HealthMax holds a 22% market share in the South region, with Starbust having its largest market share in the same region.
 
 #### **Year-over-Year Growth**
+HealthMax achieved a 4% growth in 2020 which was contributed by growth decline by top 4 tops brands in 2019
 #### **Moving Annual Total (MAT)**
 #### **Market Share**
 HealthMax owns Shinez and Starbus, out of 25 brands on the market.
