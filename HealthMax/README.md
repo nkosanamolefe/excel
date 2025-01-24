@@ -14,7 +14,7 @@ Looking into Key Performance Indicators (KPIs) such as market share and value gr
 3. **Market Share**: HealthMax holds a 22% market share in the South region, with Starbust having its largest market share in the same region.
 
 #### **Year-over-Year Growth**
-HealthMax achieved a 4% growth in 2020 which was contributed by growth decline by top 4 tops brands in 2019
+In 2020, HealthMax realized a notable 4% growth, reversing the decline experienced by top four competitors brands in 2019. This upward trajectory was largely driven by the outstanding performance of Shinez, one of HealthMax's two flagship brands, which achieved an impressive 7.7% growth. This significant increase had a profound impact on HealthMax's overall performance, effectively turning around a -5% decline in 2019.
 #### **Moving Annual Total (MAT)**
 #### **Market Share**
 HealthMax owns Shinez and Starbus, out of 25 brands on the market.
