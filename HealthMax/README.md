@@ -14,8 +14,19 @@ HealthMax, a leading Fast Moving Consumer Goods (FMCG) company in the shampoo ma
 In 2020, HealthMax achieved a notable 4% growth, reversing the decline experienced by the top four competitor brands in 2019. This upward trajectory was primarily driven by the exceptional performance of Shinez, one of HealthMax's two flagship brands, which recorded an impressive 7.7% growth. This significant increase played a pivotal role in HealthMax's overall performance, effectively offsetting the -5% decline observed in 2019.
 
 The total turnover (revenue) for the shampoo category exceeded $98 million in the latest 12-month period (April 2022–March 2023). When analyzing the market share of the leading players and the evolution of HealthMax's brands over the years, Shinez maintained an average market share of 22%, while Starbust held an average of 12% across all regions from 2019 to 2022. Notably, HealthMax commands a 47% market share in the South, outperforming its presence in other regions of the country. This regional dominance underscores HealthMax's stronger performance in the South compared to the rest of the market.
+
 ![image](https://github.com/user-attachments/assets/f617e081-1fff-4168-b706-d10ddc67c8c3)
 
 ### Net Revenue Management
+HealthMax is strategically reallocating investments across its product portfolio, prioritizing products based on their net sales and profitability. In 2022, HealthMax achieved total net sales exceeding $20 million, with Starburst Ultra Soft emerging as the top-selling product. This product alone sold over 1 million units, generating $3.5 million in net sales. 
+
+The gross margin for HealthMax's shampoo portfolio stands at 69%, meaning that 69% of the average net selling price represents gross profit. Utilizing a profitability matrix, Starburst Ultra Soft 100ML has been identified as the most critical product in the assortment, underscoring its significant contribution to both revenue and profitability. This data-driven approach ensures that HealthMax focuses its resources on high-performing products to maximize returns and sustain growth. 
+
+![image](https://github.com/user-attachments/assets/cebd1bb8-2190-4e2c-af1d-1861b4241e3e)
+
+*New category opportunity*
+
+*New product launch*
+
 ### Optimizing Net Reveue
 ## Recommendation
