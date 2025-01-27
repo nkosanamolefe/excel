@@ -22,7 +22,7 @@ HealthMax is strategically reallocating investments across its product portfolio
 
 The gross margin for HealthMax's shampoo portfolio stands at 69%, meaning that 69% of the average net selling price represents gross profit. Utilizing a profitability matrix, Starburst Ultra Soft 100ML has been identified as the most critical product in the assortment, underscoring its significant contribution to both revenue and profitability. This data-driven approach ensures that HealthMax focuses its resources on high-performing products to maximize returns and sustain growth. 
 
-![image](https://github.com/user-attachments/assets/cebd1bb8-2190-4e2c-af1d-1861b4241e3e)
+![image](https://github.com/user-attachments/assets/95930bc7-fe74-4209-a484-22556ba74994)
 
 *New category opportunity*
 
