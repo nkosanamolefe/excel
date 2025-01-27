@@ -1,6 +1,6 @@
 # Net Revenue Management in Excel
 
-## Situation
+## Problem
 HealthMax, a leading Fast Moving Consumer Goods (FMCG) company in the shampoo market, faces challenges in maximizing revenue and profitability amidst increasing competition and evolving consumer preferences. The company needs to optimize its pricing and product mix strategies to remain competitive, enhance brand equity, and drive sustainable growth.
 
 ## Data structure
