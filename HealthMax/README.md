@@ -5,27 +5,16 @@ HealthMax, a leading Fast Moving Consumer Goods (FMCG) company in the shampoo ma
 
 ## Data structure
 ## Executive Summary
-## Insights Deep Dive
-### Fast Moving Consumer Goods
-Looking into Key Performance Indicators (KPIs) such as market share and value growth on various time dimensions such as year-to-date (YTD) and moving annual total (MAT).
 #### **Key Highlights**
 1. **Year-over-year growth**: HealthMax achieved a 4% growth in 2020, driven by Shinez's 7.7% year-over-year growth.
 2. **Moving Annual Total (MAT)**: The total turnover (revenue) of the total shampoo category generated over $98 million in turnover in the latest 12 months (April 2022 - March 2023).
 3. **Market Share**: HealthMax holds a 47% market share in the South region, with Starbust having its largest market share of 22% in the same region.
+## Insights Deep Dive
+### Fast Moving Consumer Goods
+In 2020, HealthMax achieved a notable 4% growth, reversing the decline experienced by the top four competitor brands in 2019. This upward trajectory was primarily driven by the exceptional performance of Shinez, one of HealthMax's two flagship brands, which recorded an impressive 7.7% growth. This significant increase played a pivotal role in HealthMax's overall performance, effectively offsetting the -5% decline observed in 2019.
 
-#### **Year-over-Year Growth**
-In 2020, HealthMax realized a notable 4% growth, reversing the decline experienced by top four competitors brands in 2019. This upward trajectory was largely driven by the outstanding performance of Shinez, one of HealthMax's two flagship brands, which achieved an impressive 7.7% growth. This significant increase had a profound impact on HealthMax's overall performance, effectively turning around a -5% decline in 2019. The total turnover (revenue) of the total shampoo category generated over $98 million in turnover in the latest 12 months (April 2022 - March 2023). Market share of the biggest players on the market to see how our brands evolved over the years, HEalthMax very own product over the preriod of 5 years from 2019 to 2022 on all regions held an average 22% for Shiznez and 12% for Starbust.
-HealthMax has 47% of market share in the South and is performing better in the South than in the rest of the country!
-#### **Moving Annual Total (MAT)**
-#### **Market Share**
-HealthMax owns Shinez and Starbus, out of 25 brands on the market.
-Year-over-year growth per brand, in 2020 HealthMax grew by 4%! Shinez contributed to this success with its 7,7% YoY growth.
-
-![image](https://github.com/user-attachments/assets/12d843fd-0847-44ba-aa41-d967bd826a79)
-
-Looking at a longe period than Year to Data (YTD), Moving Annual Total (MAT), 
-
-
+The total turnover (revenue) for the shampoo category exceeded $98 million in the latest 12-month period (April 2022–March 2023). When analyzing the market share of the leading players and the evolution of HealthMax's brands over the years, Shinez maintained an average market share of 22%, while Starbust held an average of 12% across all regions from 2019 to 2022. Notably, HealthMax commands a 47% market share in the South, outperforming its presence in other regions of the country. This regional dominance underscores HealthMax's stronger performance in the South compared to the rest of the market.
+![image](https://github.com/user-attachments/assets/f617e081-1fff-4168-b706-d10ddc67c8c3)
 
 ### Net Revenue Management
 ### Optimizing Net Reveue
