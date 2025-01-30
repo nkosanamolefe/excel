@@ -40,7 +40,7 @@ In 2020, HealthMax achieved 4% growth, reversing the decline seen by its top com
 
 From April 2022 to March 2023, the shampoo category generated over $98 million in revenue. Shinez held an average market share of 22%, while Starburst maintained 12% across all regions from 2019 to 2022. HealthMax dominates the South region with a 47% market share, significantly outperforming other regions, highlighting its strong presence in that area.
 
-![image](Images\markert_share.png)
+![image](Images/markert_share.png)
 
 ### Net Revenue Management
 
@@ -54,7 +54,7 @@ The shampoo portfolio has a strong gross margin of 69%, meaning 69% of the avera
 
 HealthMax currently operates in only 2 out of 5 shampoo subcategories and is considering expanding into a new one. Using a pivot table, the Organic subcategory was identified as the fastest-growing, with a growth rate of 276%. Based on historical trends, the Organic subcategory is projected to grow by 20% in 2024 compared to March 2023 levels, reaching an estimated 1 million units for the full year. This presents a significant opportunity for HealthMax to enter a high-growth market.
 
-![alt text](Images\subcategory.png)
+![alt text](Images/subcategory.png)
 
 ### Optimizing Net Revenue
 
@@ -64,4 +64,4 @@ Research shows that travelers prefer 50ml shampoo bottles. Currently, HealthMaxâ
 
 The retail price for the 50ml pack can be set at a 50% markup based on the `price per ml` of the 100ml pack. With a `net price` of $2.30 and a `cost of goods sold (COGS)` of 0.70, the 50ml format is projected to generate $265,960 in `net sales`, assuming its `2022 volume` will be 10% of the 100ml packâ€™s volume. This move allows HealthMax to target a new consumer segment and boost revenue.
 
-![alt text](Images\revenue_optimizing.png)
+![alt text](Images/revenue_optimizing.png)
