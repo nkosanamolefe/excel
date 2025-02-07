@@ -10,7 +10,7 @@ By focusing on high-performing products, exploring new subcategories, and optimi
 
 1. Market Performance:
 
-    - HealthMax grew by 4% in 2020, reversing a decline seen in 2019. Its brand Shinez drove this growth with a 7.7% increase, offsetting earlier losses.
+    - HealthMax grew by 4% in 2020, reversing a decline of -5% seen in 2019. Its brand Shinez drove this growth with a 7.7% increase, offsetting earlier losses.
 
     - The shampoo category generated over $98 million in revenue from April 2022 to March 2023.
 
