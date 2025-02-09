@@ -6,31 +6,8 @@ HealthMax, a top Fast Moving Consumer Goods (FMCG) company in the shampoo market
 
 ## Executive Summary
 
-By focusing on high-performing products, exploring new subcategories, and optimizing pricing strategies, HealthMax can strengthen its market position, drive revenue growth, and meet evolving consumer demands.
+HealthMax, a leading FMCG shampoo brand, is addressing rising competition and changing consumer preferences by optimizing its product mix and expanding into high-growth markets. Despite challenges, HealthMax achieved 4% growth in 2020, driven by its flagship brand Shinez (22% market share) and strong regional dominance in the South (47% market share). To boost profitability, the company is focusing on its top-performing product, Starburst Ultra Soft, which generated $3.5 million in revenue in 2022. By entering the fast-growing Organic subcategory (projected 20% growth in 2024) and launching a 50ml travel-sized version of Starburst Ultra Soft, HealthMax aims to tap new consumer segments, increase revenue, and solidify its position as a market leader. These data-driven strategies will drive sustainable growth and enhance competitiveness in the evolving FMCG landscape
 
-1. Market Performance:
-
-    - HealthMax grew by 4% in 2020, reversing a decline of -5% seen in 2019. Its brand Shinez drove this growth with a 7.7% increase, offsetting earlier losses.
-
-    - The shampoo category generated over $98 million in revenue from April 2022 to March 2023.
-
-    - HealthMax dominates the South region with a 47% market share, outperforming other areas.
-
-2. Product Performance:
-
-    - In 2022, HealthMax achieved  20 million in net sales, with Starburst Ultra Soft as the top product, selling 1 million units and generating 3.5 million.
-
-    - The shampoo portfolio has a strong gross margin of 69%, with Starburst Ultra Soft 100ml being the most profitable product.
-
-3. New Growth Opportunity:
-
-   - HealthMax operates in only 2 of 5 shampoo subcategories. The Organic subcategory is growing rapidly at 276% and is projected to reach 1 million units by 2024, offering a significant expansion opportunity.
-
-4. Revenue Optimization:
-
-    - HealthMax can target travelers by launching a 50ml version of its best-selling product, Starburst Ultra Soft.
-
-    - The 50ml format is estimated to generate $265,960 in net sales, with a retail price based on a 50% markup of the 100ml pack’s price per ml.
 
 ## Insights Deep Dive
 
